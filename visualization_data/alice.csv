@@ -1,0 +1,81 @@
+stars,reasons,count
+1,slow working,1
+1,poor customer support,0
+1,low quality products,1
+1,fast working,1
+1,good customer support,0
+1,high quality products,1
+1,nothing,0
+1,other,0
+2,slow working,1
+2,poor customer support,0
+2,low quality products,2
+2,fast working,1
+2,good customer support,0
+2,high quality products,2
+2,nothing,0
+2,other,0
+3,slow working,1
+3,poor customer support,3
+3,low quality products,0
+3,fast working,1
+3,good customer support,2
+3,high quality products,0
+3,nothing,1
+3,other,0
+4,slow working,4
+4,poor customer support,0
+4,low quality products,1
+4,fast working,1
+4,good customer support,1
+4,high quality products,1
+4,nothing,3
+4,other,1
+5,slow working,0
+5,poor customer support,1
+5,low quality products,1
+5,fast working,0
+5,good customer support,3
+5,high quality products,1
+5,nothing,0
+5,other,2
+6,slow working,2
+6,poor customer support,0
+6,low quality products,0
+6,fast working,1
+6,good customer support,1
+6,high quality products,2
+6,nothing,0
+6,other,2
+7,slow working,2
+7,poor customer support,1
+7,low quality products,1
+7,fast working,3
+7,good customer support,1
+7,high quality products,1
+7,nothing,0
+7,other,1
+8,slow working,1
+8,poor customer support,0
+8,low quality products,1
+8,fast working,1
+8,good customer support,1
+8,high quality products,2
+8,nothing,1
+8,other,3
+9,slow working,0
+9,poor customer support,0
+9,low quality products,0
+9,fast working,1
+9,good customer support,0
+9,high quality products,1
+9,nothing,1
+9,other,3
+10,slow working,0
+10,poor customer support,0
+10,low quality products,0
+10,fast working,0
+10,good customer support,1
+10,high quality products,1
+10,nothing,4
+10,other,6

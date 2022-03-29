@@ -1,0 +1,385 @@
+{
+    "amount_of_users": 42,
+    "user1": {
+        "user_id": 1,
+        "username": "bratz",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 8,
+        "good_reasons": "good customer support",
+        "bad_reasons": "other"
+    },
+    "user2": {
+        "user_id": 2,
+        "username": "sstrz",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "good customer support",
+        "bad_reasons": "other"
+    },
+    "user3": {
+        "user_id": 4,
+        "username": "Daniil",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 7,
+        "good_reasons": "nothing",
+        "bad_reasons": "poor customer support"
+    },
+    "user4": {
+        "user_id": 5,
+        "username": "danzel",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "fast working",
+        "bad_reasons": "other"
+    },
+    "user5": {
+        "user_id": 6,
+        "username": "blare",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 2,
+        "good_reasons": "nothing",
+        "bad_reasons": "slow working"
+    },
+    "user6": {
+        "user_id": 7,
+        "username": "beelkb",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 1,
+        "good_reasons": "good customer support",
+        "bad_reasons": "slow working"
+    },
+    "user7": {
+        "user_id": 8,
+        "username": "Danzel",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 6,
+        "good_reasons": "fast working",
+        "bad_reasons": "other"
+    },
+    "user8": {
+        "user_id": 9,
+        "username": "da",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 5,
+        "good_reasons": "fast working",
+        "bad_reasons": "other"
+    },
+    "user9": {
+        "user_id": 10,
+        "username": "beba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 7,
+        "good_reasons": "nothing",
+        "bad_reasons": "low quality products"
+    },
+    "user10": {
+        "user_id": 11,
+        "username": "daas",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 1,
+        "good_reasons": "nothing",
+        "bad_reasons": "low quality products"
+    },
+    "user11": {
+        "user_id": 12,
+        "username": "Hugo",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "high quality products",
+        "bad_reasons": "other"
+    },
+    "user12": {
+        "user_id": 13,
+        "username": "boss",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 5,
+        "good_reasons": "fast working",
+        "bad_reasons": "poor customer support"
+    },
+    "user13": {
+        "user_id": 14,
+        "username": "bilbo",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 2,
+        "good_reasons": "good customer support",
+        "bad_reasons": "low quality products"
+    },
+    "user14": {
+        "user_id": 15,
+        "username": "lool",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 8,
+        "good_reasons": "high quality products",
+        "bad_reasons": "slow working"
+    },
+    "user15": {
+        "user_id": 16,
+        "username": "kaka",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 3,
+        "good_reasons": "high quality products",
+        "bad_reasons": "slow working"
+    },
+    "user16": {
+        "user_id": 17,
+        "username": "kilka",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 6,
+        "good_reasons": "good customer support",
+        "bad_reasons": "slow working"
+    },
+    "user17": {
+        "user_id": 18,
+        "username": "kaolin",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 9,
+        "good_reasons": "good customer support",
+        "bad_reasons": "other"
+    },
+    "user18": {
+        "user_id": 19,
+        "username": "jeemba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "high quality products",
+        "bad_reasons": "other"
+    },
+    "user19": {
+        "user_id": 20,
+        "username": "hhha",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 3,
+        "good_reasons": "nothing",
+        "bad_reasons": "poor customer support"
+    },
+    "user20": {
+        "user_id": 21,
+        "username": "jaja",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 2,
+        "good_reasons": "good customer support",
+        "bad_reasons": "low quality products"
+    },
+    "user21": {
+        "user_id": 22,
+        "username": "vetements",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "high quality products",
+        "bad_reasons": "other"
+    },
+    "user22": {
+        "user_id": 23,
+        "username": "kabzon",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 6,
+        "good_reasons": "good customer support",
+        "bad_reasons": "slow working"
+    },
+    "user23": {
+        "user_id": 24,
+        "username": "vca",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 3,
+        "good_reasons": "fast working",
+        "bad_reasons": "poor customer support"
+    },
+    "user24": {
+        "user_id": 25,
+        "username": "low quality product",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 5,
+        "good_reasons": "fast working",
+        "bad_reasons": "low quality products"
+    },
+    "user25": {
+        "user_id": 26,
+        "username": "poor customer supoort",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 3,
+        "good_reasons": "fast working",
+        "bad_reasons": "poor customer support"
+    },
+    "user26": {
+        "user_id": 27,
+        "username": "jeemba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 10,
+        "good_reasons": "high quality products",
+        "bad_reasons": "other"
+    },
+    "user27": {
+        "user_id": 28,
+        "username": "lolita",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 8,
+        "good_reasons": "fast working",
+        "bad_reasons": [
+            "other"
+        ]
+    },
+    "user28": {
+        "user_id": 29,
+        "username": "Daniil",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 9,
+        "good_reasons": "nothing",
+        "bad_reasons": "other"
+    },
+    "user29": {
+        "user_id": 29,
+        "username": "Julika",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "high quality products",
+        "bad_reasons": "slow working"
+    },
+    "user30": {
+        "user_id": 30,
+        "username": "Hihg",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "good customer support",
+        "bad_reasons": "slow working"
+    },
+    "user31": {
+        "user_id": 31,
+        "username": "daa",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "nothing",
+        "bad_reasons": "low quality products"
+    },
+    "user32": {
+        "user_id": 32,
+        "username": "lilek",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "high quality products",
+        "bad_reasons": "slow working"
+    },
+    "user33": {
+        "user_id": 33,
+        "username": "baba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "fast working",
+        "bad_reasons": "slow working"
+    },
+    "user34": {
+        "user_id": 34,
+        "username": "vvava",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 4,
+        "good_reasons": "high quality products",
+        "bad_reasons": [
+            "lkia"
+        ]
+    },
+    "user35": {
+        "user_id": 35,
+        "username": "Daniil",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 7,
+        "good_reasons": "good customer support",
+        "bad_reasons": "slow working"
+    },
+    "user36": {
+        "user_id": 36,
+        "username": "baba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 7,
+        "good_reasons": "nothing",
+        "bad_reasons": "others"
+    },
+    "user37": {
+        "user_id": 37,
+        "username": "bilbo",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 7,
+        "good_reasons": "fast working",
+        "bad_reasons": "slow working"
+    },
+    "user38": {
+        "user_id": 38,
+        "username": "Dendi",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 8,
+        "good_reasons": "nothing",
+        "bad_reasons": "low quality products"
+    },
+    "user39": {
+        "user_id": 39,
+        "username": "dabadaba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 6,
+        "good_reasons": "nothing",
+        "bad_reasons": "others"
+    },
+    "user40": {
+        "user_id": 40,
+        "username": "beba",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 8,
+        "good_reasons": "good customer support",
+        "bad_reasons": "others"
+    },
+    "user41": {
+        "user_id": 41,
+        "username": "dada",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 5,
+        "good_reasons": "good customer support",
+        "bad_reasons": "others"
+    },
+    "user42": {
+        "user_id": 42,
+        "username": "dandi",
+        "user_location": "user_location",
+        "used_application": "website_url",
+        "stars": 9,
+        "good_reasons": "high quality products",
+        "bad_reasons": "others"
+    }
+}
